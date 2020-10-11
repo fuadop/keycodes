@@ -2,7 +2,11 @@
 
 <p align="center">Access key codes with their respective key names.</p>
 
+<br>
+
 ## Installation
+
+<br>
 
 - __yarn__
 ```sh
@@ -14,14 +18,16 @@ yarn add keycodes
 npm install keycodes
 ```
 
-## Usage
 - __cdn__
 
 ```html
 <script src=""></script>
 ```
 
-- __modules__
+<br>
+
+## Usage
+
 ```js
 import keys from "keycodes"
 
