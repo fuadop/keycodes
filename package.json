@@ -1,7 +1,7 @@
 {
   "name": "keycodes",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "babel src/index.js --out-file dist/index.js"

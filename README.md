@@ -21,7 +21,7 @@ npm install keycodes
 - __cdn__
 
 ```html
-<script src=""></script>
+<script src="unpkg.com/keycodesjs/"></script>
 ```
 
 <br>
@@ -29,7 +29,7 @@ npm install keycodes
 ## Usage
 
 ```js
-import keys from "keycodes"
+import keys from "keycodesjs"
 
 const A = keys.A 
 //this would return the respective keycode for the letter A(a).
